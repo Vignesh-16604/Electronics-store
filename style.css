@@ -1,0 +1,23 @@
+.banner {
+    width: 275px;
+    height: 960px;
+    border: 1px solid black;
+    display: block;
+    margin:0 auto;
+}
+.banner1{
+     width: 960px;
+    height: 275px;
+    border: 1px solid black;
+    display: block;
+    margin:0 auto;
+}
+.nav {
+    text-align: center;
+    margin-top: 10px;
+}
+.nav a {
+    text-decoration: none;
+    margin: 10px;
+    font-size: 18px;
+}
